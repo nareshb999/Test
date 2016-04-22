@@ -14,7 +14,9 @@ namespace SingletonDesignPattern
 	{
 		public Form3()
 		{
+			//Adding Comments to test the commit feature
 			InitializeComponent();
+			
 		}
 	}
 }
